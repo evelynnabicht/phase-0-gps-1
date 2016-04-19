@@ -11,3 +11,5 @@
 [hyperlink](http://www.google.com)
 
 ![image](http://www.cnn.com)
+
+## merge conflicts
