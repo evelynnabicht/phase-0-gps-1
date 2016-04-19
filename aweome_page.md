@@ -13,3 +13,4 @@
 ![image](http://www.cnn.com)
 
 # Hello world
+## Merge Conflict
